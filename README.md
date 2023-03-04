@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
- 👨‍💻 All my projects are available on my [GitHub](GitHub)
+ 👨‍💻 All my projects are available on my [GitHub]
 
- 📫 How to reach me 
+ 📫 How to reach me.
+ 
  Mail: **i0am0programmer@icloud.com**
  Telegram:**@ArtFixProg**
 <h3 align="left">Connect with me:</h3>
